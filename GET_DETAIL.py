@@ -16,5 +16,3 @@ for repo_detial in response:
 
 frame = pd.DataFrame(User_detail,columns=column)
 print(frame)
-
-
